@@ -1,0 +1,88 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "Diego: *Diego pose* like"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: Diego, ¿sabes si el profesor de matemáticas dejó tarea?",
+                "Diego: No lo sé, puede ser que sí",
+                "David: ¿Cómo que puede ser que sí?",
+                "Diego: Bueno es que hice una tarea de mate...",
+                "Diego: Pero no sé si sea la que dejó el profe",
+                "David: (-_-;) ... pues pásala",
+                "Diego: NO",
+                "David: Ah chale..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: Oye Diego, tengo una duda",
+                "David: ¿Por qué no eres tan expresivo como los demás?",
+                "Diego: No sé...",
+                "David: O sea, ¿no te gusta?",
+                "Diego: No sé...",
+                "David: ¿Sólo eres así?",
+                "Diego: Pues sí...",
+                "Diego: Bueno no todos matamos profesores",
+                "David: Fue defensa propia..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Diego: Y fuiste por otro, por lo que veo",
+                "David: ¿Qué parte de que ellos me atacan no comprenden?",
+                "David: Yo no busco pelear con ellos",
+                "Diego: ¿Y matarlos sí?",
+                "David: A veces me cuesta creer lo cruel que puedes ser"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Diego: Oye, ¿estás bien?",
+                "David: ¿Realmente te importa?",
+                "Diego: Bueno, es que se nota que te sientes mal",
+                "David: Pues sí, me siento mal",
+                "David: Y supongo que tú también me culpas por lo que pasó con Midria",
+                "Diego: Ciertamente...",
+                "Diego: Pero comprendo tu posición..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Diego: Ok, es oficial...",
+                "Diego: Estás haciendo una matanza en la escuela",
+                "David: No es mi culpa que todos los profes quieran matarme",
+                "David: Además, ahora mismo voy a dirección para acabar con esto",
+                "David: Aunque, ¿sabes dónde está?",
+                "Diego: Sinceramente, no",
+                "Diego: Deberías preguntarle a los demás",
+                "David: Je, gracias por tu ayuda, Diego",
+                "Diego: De nada"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Diego: ¿Dónde rayos estabas?",
+                "David: Estoy bien, gracias por preguntar",
+                "Diego: Sabes que hablo en serio",
+                "David: Estaba intentando sobrevivir",
+                "David: Pero al menos ya sé con quién debo ir ahora",
+                "Diego: ¿Quién? ¿Voltaria?",
+                "David: Chico listo..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Diego: Bien... ¿ahora qué?",
+                "David: Supongo que hay que seguir adelante",
+                "David: Es lo único que podemos hacer",
+                "Diego: Me suena bien",
+                "Diego: Entonces... hasta el próximo semestre",
+                "David: Hasta el próximo semestre, Diego"
+            ]
+        }
+    ]
+}

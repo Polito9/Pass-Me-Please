@@ -1,0 +1,96 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "Mauricio: *escuchando música*",
+                "David: ¿Qué escuchas?",
+                "Mauricio: ...",
+                "David: Ammm... okey...",
+                "Mauricio: Oh, ¿me hablabas?",
+                "Mauricio: Perdón, es que tengo la música muy alta",
+                "David: Ah no te preocupes",
+                "David: Te pregunté acerca de lo que estás escuchando",
+                "Mauricio: Ah! Es un fragmento de una canción en la que estoy trabajando",
+                "Mauricio: Trato de perfeccionarla",
+                "David: Cool..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: ¡Mau Mau Mau!",
+                "Mauricio: Jejeje... parece que maúllas",
+                "David: ¿Sabes cómo hacer la tarea del profe Mercury?",
+                "Mauricio: ¿La de la partitura?",
+                "David: Sisisisi",
+                "David: ¿Cómo puedo marcar un tiempo en semicorcheas?",
+                "Mauricio: Simplemente indica en la partitura una nota con cuatro patas",
+                "Mauricio: Así muestras que es una melodía rápida",
+                "David: Oohhh. Vale Mau, ¡gracias!",
+                "Mauricio: De nada  👍"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Mauricio: Oye... ¿cómo se siente matar a alguien?",
+                "David: Muy mal...",
+                "David: Pero fue en defensa propia...",
+                "Mauricio: Sólo pregunto por saber, no te juzgo",
+                "David: Gracias..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Mauricio: *escuchando música*",
+                "Mauricio: Es curioso el poder que puede tener la música",
+                "Mauricio: Puede contar historias...",
+                "Mauricio: Y puede decir verdades que nadie se atrevería a decir",
+                "David: Pero también puede ser doloroso...",
+                "Mauricio: Tal vez...",
+                "Mauricio: Pero aún así se puede aprender de ella"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Mauricio: Oye... ¿Alan te sigue odiando?",
+                "David: No porque yo quiera, simplemente no quiere perdonarme",
+                "Mauricio: Deberías hablar con él, a fondo...",
+                "David: Lo he intentado",
+                "David: Pero durante un mes nada ha cambiado...",
+                "Mauricio: Sólo... no te rindas con él",
+                "Mauricio: Sé que te estima",
+                "David: Gracias... Mau"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: Mau, ¿sabes dónde puedo encontrar la dirección?",
+                "Mauricio: La verdad nunca me lo había preguntado",
+                "Mauricio: Debe estar en el edificio de allá. *señala*",
+                "David: ...en los salones...?",
+                "Mauricio: Ay, ¿ese es el edificio de los salones?"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Mauricio: ¿Estás bien?",
+                "David: Sí... afortunadamente",
+                "David: Richtofen fue difícil de vencer",
+                "Mauricio: Me imagino, y ahora ¿qué vas a hacer?",
+                "David: Mencionó a la profesora Voltaria...",
+                "David: Y es a quien iré a ver ahora",
+                "Mauricio: Sabes que cuentas con mi apoyo",
+                "David: Gracias, pero debo hacerlo sólo",
+                "David: No quiero que salgan lastimados"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Mauricio: ¡Lo lograste! Eres lo máximo",
+                "David: Sólo hice lo que debía...",
+                "Mauricio: Y gracias a eso ahora podemos disfrutar estar aquí",
+                "David: (* ^ ω ^)",
+                "Mauricio: Hasta el próximo semestre, héroe"
+            ]
+        }
+    ]
+}

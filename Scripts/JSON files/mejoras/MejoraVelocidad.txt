@@ -1,0 +1,10 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "Felicidades, lograste encontrar una mejora de velocidad",
+                "ahora tienes x2 mas velocidad al pulsar shift"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "Profesora Voltaria: No puede ser...",
+                "Profesora Voltaria: No no no no NO PUEDE SER!",
+                "Profesora Voltaria: ¿¡Cómo es que un mocoso como él nos haya vencido!?",
+                "David: Supongo que fue suerte...",
+                "...",
+                "David: A menos de que mis capacidades fueran mayores de las que ustedes creían",
+                "David: Creo que es la desventaja de ser inmortal...",
+                "David: Tu cerebro tarde o temprano se vuelve obsoleto",
+                "Profesora Voltaria: Je... no, querido...",
+                "Profesora Voltaria: Esa es la voluntad de esta escuela...",
+                "Profesora Voltaria: Ser tan imponente y poderosa que sus débiles cuerpos no aguantan contra ella",
+                "Profesora Voltaria: Nosotros, sus profesores, sólo somos sus instrumentos",
+                "Profesora Voltaria: Y ahora, me aseguraré de erradicar hasta la última gota de dulce vitalidad que posees",
+                "Profesora Voltaria: Hasta que te vuelvas un caparazón hueco y gris",
+                "Profesora Voltaria: Pero, por supuesto, no puedo hacerlo sin probar que eres digno de confrontarme",
+                "David: Estoy listo..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Profesora Voltaria: Esto no es correcto... esto no debe pasar...",
+                "David: Es momento de que esta escuela tenga los profesores que los alumnos se merecen",
+                "Profesora Voltaria: ¿¡Crees que ustedes se merecen buenos profesores!?",
+                "Profesora Voltaria: ¿¡Qué pasa con el poco interés que tienen en mejorar, en superarse!?",
+                "Profesora Voltaria: Nada de eso les importa",
+                "David: ¿En serio cree eso?",
+                "David: No es que no queramos mejorar, simplemente no nos concentramos en hacerlo",
+                "David: Es por eso que los necesitamos a ustedes...",
+                "David: Para ayudarnos y guiarnos en etapas tan importantes como esta",
+                "David: Es gracias a ustedes que podemos saber quién queremos ser en el futuro",
+                "David: Lástima que usted no logró verlo",
+                "Profesora Voltaria: El ser humano no cambia...",
+                "Profesora Voltaria: Por más que lo golpees, lo maltrates o lo abandones, seguirá siendo el mismo",
+                "Profesora Voltaria: Puedes poner tantos profesores como quieras...",
+                "Profesora Voltaria: Y un estudiante seguirá siendo igual, recuérdalo",
+                "David: Aún así merecemos una oportunidad",
+                "David: Una oportunidad de demostrar lo que valemos",
+                "David: Nuestras ambiciones y nuestros objetivos",
+                "David: Tal vez hasta usted se sorprendería de todas las ideas que pasan a través de una mente joven",
+                "Profesora Voltaria: Je *cough* puede que tengas razón",
+                "Profesora Voltaria: Tendré que averiguarlo la próxima vez",
+                "David: ¿Próxima... vez?"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Ugh.....", 
+                "........"
+            ]
+        }
+    ]
+}

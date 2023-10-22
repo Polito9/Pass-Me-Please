@@ -1,0 +1,10 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "Felicidades, lograste encontrar una mejora para saltar preguntas",
+                "Si una pregunta es muy complicada puedes saltarla con esta mejora"
+            ]
+        }
+    ]
+}

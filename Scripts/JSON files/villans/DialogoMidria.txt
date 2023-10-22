@@ -1,0 +1,47 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "David: Me pregunto si las bacterias tienen festividades...",
+                "David: O al menos algún tipo de evento social",
+                "...",
+                "David: ...otra vez solo? Creo que mejor me-",
+                "Profesora Midria: ¿Qué pasa? ¿Ya quieres irte tan pronto?",
+                "Profesora Midria: La clase ni siquiera ha empezado...",
+                "David: Usted no me engaña...",
+                "David: Desde el mes pasado todos ustedes han estado más nerviosos",
+                "David: Dígame qué quieren con nosotros",
+                "Profesora Midria: Hmm... tal parece que los rumores eran ciertos",
+                "Profesora Midria: Eres el chico que acabó con Bunsen y Mercury",
+                "Profesora Midria: Lo siento niño, pero debes entender que no puedo dejarte ir",
+                "Profesora Midria: El profesor Diferal me pidió en persona que averiguara lo que estaba sucediendo",
+                "David: Pues aquí estoy...",
+                "David: Y no me iré sin conseguir respuestas",
+                "Profesora Midria: Aww... qué tierno",
+                "Profesora Midria: Pero veamos si tu inteligencia se equipara con tu valor",
+                "Profesora Midria: ...y tu guapura",
+                "David: ¿?"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Profesora Midria: Biológicamente hablando, esto no debió pasar…",
+                "Profesora Midria: Pero me sorprendiste",
+                "David: Profesora, ¿por qué lo hacen?",
+                "Profesora Midria: ¿Alguna vez te has preguntado cómo es que los profesores duramos tanto tiempo aquí?",
+                "Profesora Midria: Es su energía la que nos rejuvenece una y otra vez...",
+                "Profesora Midria: ...pero a veces no es suficiente",
+                "David: ¿Cómo pudieron?",
+                "Profesora Midria: Mi niño...",
+                "Profesora Midria: La vida aún no te ha enseñado de qué son capaces las personas por conseguir lo que desean…",
+                "David: Voy aprendiendo..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Ugh.....", 
+                "........"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "David:  Al menos ya sé qué es lo que quieren",
+                "David: Pero, ¿cómo lo evito...?",
+                "David: Supongo que haciendo lo que vine a hacer",
+                "...",
+                "David: ¿Profesor Diferal?",
+                "Profesor Diferal: ¿Qué se te ofrece, alumno?",
+                "David:¡Profesor!",
+                "David: ...*khm khm*...perdón",
+                "David: Profesor, quería hablar con usted un momento",
+                "Profesor Diferal: ¿Sobre qué, exactamente?",
+                "David: Sobre...algo que pasó con la profesora Midria",
+                "David: Algo...que usted sabe perfectamente",
+                "Profesor Diferal: ...sí, lo sé...",
+                "Profesor Diferal: Así como sé que sólo has tenido suerte...",
+                "Profesor Diferal: Ninguno de esos perdedores pudo nunca hacer lo que se necesitaba hacer",
+                "Profesor Diferal: Pero eso se acabó...",
+                "Profesor Diferal: Ahora eres mío, y no te tendré piedad",
+                "David: Órale..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Profesor Diferal: El error fue mío en subestimarte...",
+                "Profesor Diferal: Realmente tienes un cerebro que sabes usar",
+                "David: Je... se sorprendería",
+                "David: Ahora dígame cómo detenerlos",
+                "Profesor Diferal: Jajajaja, ¿en serio me lo preguntas?",
+                "Profesor Diferal: ¿¡Qué te dice tu lógica, muchacho!?",
+                "Profesor Diferal: ¿¡Cómo se acaba con una fuerza imponente!?",
+                "David: Se debe ir...",
+                "Profesor Diferal: ...a la fuente",
+                "David: ¿Y cuál es?"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Ugh.....", 
+                "........"
+            ]
+        }
+    ]
+}

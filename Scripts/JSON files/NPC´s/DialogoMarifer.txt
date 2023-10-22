@@ -1,0 +1,101 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "Marifer: *viendo su celular*",
+                "David: Oye, ¿sabes dónde queda nuestro salón?",
+                "Marifer: Ammm... ni idea",
+                "David: Je, okey. Gracias",
+                "Marifer: De nada... (/ / • /ω/ • / /)"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Marifer: *viendo su celular*",
+                "David: Alguna vez dejas en paz a tu novio?",
+                "Marifer: Primero, que te valga",
+                "Marifer: Segundo, estoy leyendo, sí?",
+                "David: Bueno bueno está bien, sólo preguntaba",
+                "Marifer: Ay perdón, es que se puso muy candente la cosa (-ω-)"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Marifer: OYE OYE OYE",
+                "David: ¿Qué pasa?",
+                "Marifer: ¿En serio mataste a la profesora Bunsen?",
+                "David: SSHSHHSHH ¡CÁLLATE!",
+                "Marifer: ¡Es que quiero saber!",
+                "Marifer: Se parece a la trama de uno de mis doramas",
+                "David: A veces me asusta lo mucho que confundes la realidad con la ficción",
+                "Marifer: Ay, que toda mi vida me pase leyendo y viendo programas...",
+                "Marifer: ...no significa que tenga una percepción de la realidad completamente alterada",
+                "David: No... para nada"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: Este... Marifer...",
+                "Marifer: Dime (o˘_˘o)",
+                "David: ¿Es normal que aún me sienta mal por el profesor?",
+                "Marifer: Oh, por supuesto",
+                "Marifer: No es fácil quitar una vida",
+                "David: Gracias por decirme que lo maté...",
+                "Marifer: Bueno es que... eso pasó, pero era él o tú",
+                "Marifer: No tenías opción",
+                "David: Tu forma de animarme es bastante curiosa...",
+                "Marifer: Un placer (-__-)"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Marifer: Amm...",
+                "Merifer: Entonces sí lo hiciste? (-ω-,)",
+                "David: Tuve que, como me has dicho",
+                "Marifer: Sí, pero...",
+                "Marifer: ¿No crees que afectó demasiado a todos?",
+                "David: Yo nunca quise pelear, ella me atacó primero",
+                "Marifer: O al menos eso es lo que tú dices... (;__⌣)",
+                "David: ¿Dices que la ataqué a propósito?",
+                "Marifer: Nonono sólo...",
+                "marifer: También la quería...",
+                "David: Como yo..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Marifer: ¿¡En serio venciste a Diferal!? (*∀*)",
+                "David: Sigo vivo, ¿no?",
+                "Marifer: Impresionante",
+                "David: Me vendría bien algo de ayuda, sabes?",
+                "Marifer: Naaaaah tú puedes solito",
+                "Marifer: Aparte tengo mucho sueño (_ _ *) Zzz",
+                "David: Ugh..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Marifer: ¡DAVID! ¿Estás bien? | (º*º) |",
+                "David: Sí sí... estoy bien...",
+                "David: Me subestimó (- _ -)",
+                "Marifer: Y tenías que arruinarlo con tu ego...",
+                "David: Ay sólo decía... ¡estuve cerca de morir!",
+                "Marifer: Pues sí, pero entonces no presumas",
+                "David: Bueno... (;_)"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Marifer: ¡Lo lograste! ¡Muy bien, David!",
+                "David: Era tiempo de un cambio",
+                "David: Sólo espero que valga la pena",
+                "Marifer: Créeme que sí",
+                "David: Eres un héroe  -(* - _ - *) ",
+                "David: Gracias, Marifer",
+                "David: Te veo el próximo semestre",
+                "Marifer: ¡Hasta entonces!",
+                "Marifer: Recuerda que me muero en vacaciones (* ^ ω ^)"
+            ]
+        }
+    ]
+}

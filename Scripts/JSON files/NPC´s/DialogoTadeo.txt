@@ -1,0 +1,119 @@
+{
+    "dialogo" :[
+        {
+            "dPersonaje":[
+                "Tadeo: *viendo su celular*",
+                "Tadeo: Buenas...",
+                "David: Hola, ¿cómo estás?",
+                "Tadeo: Bien... ¿qué tal tú?",
+                "David: Muy bien gracias (* ^ ω ^)",
+                "Tadeo: Jeje no te pongas nervioso",
+                "Tadeo: Soy Tadeo, ¿y tú?",
+                "David: ¡David! Un gusto",
+                "Tadeo: El gusto es mío"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: ¡Hola Tadeo! ¿Cómo estás?",
+                "Tadeo: ¡Bastante bien! Emocionado",
+                "David: ¿Y eso por qué?",
+                "Tadeo: En una semana será mi cumpleaños (^ ▽ ^)",
+                "David: Wooooow. Qué genial. (✧∀✧)",
+                "Tadeo: Lo sé...",
+                "Tadeo: Estás invitado a mi fiesta por si quieres venir",
+                "David: ¿En serio? ¡gracias!"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Tadeo: Sigo sin creer lo que hiciste",
+                "David: No fue mi culpa...",
+                "David: Lo siento",
+                "Tadeo: ¿Bromeas? ¡Estuvo genial!",
+                "Tadeo: Digo, matar a una persona es algo serio y todo...",
+                "Tadeo: Pero fue en defensa propia",
+                "Tadeo: ¡Me refiero al hecho de que venciste a un maestro!",
+                "David: ¿Tú no estás enojado?",
+                "Tadeo: ¿Por qué lo estaría?",
+                "Tadeo: Además, esa profesora nunca me cayó bien"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: Oye Tadeo, quiero preguntarte algo",
+                "Tadeo: Dime, David",
+                "David: Es que, como sabrás...",
+                "David: Mercury me dijo que yo puedo encontrar las respuestas",
+                "David: ¿Tienes alguna idea de a qué se refería?",
+                "Tadeo: Probablemente al hecho de que si ya habías vencido a dos de ellos...",
+                "Tadeo: Podrías con los demás",
+                "David: Puede ser...",
+                "Tadeo: Bueno no pienses en eso...",
+                "Tadeo: Tenemos que ir a clase...",
+                "Tadeo: Con la profa Midria (>_< *)",
+                "David: A ti también te gusta, ¿o no?"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Tadeo: Ey viejo... ¿cómo te sientes?",
+                "David: Mal... todos están molestos por lo que pasó con Midria",
+                "Tadeo: Más Alan... te odia",
+                "David: Ja, ¿tú crees?",
+                "David: No sé cómo hacerles entender que no fue mi culpa",
+                "Tadeo: Ellos lo saben...",
+                "Tadeo: Sólo que el dolor no les permite verlo",
+                "Tadeo: Tranquilo, ¿ok?",
+                "Tadeo: Aún queda mucho por hacer",
+                "David: *sniff* Gracias..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Tadeo: Oye, la próxima invítame a ir contigo",
+                "David: Je me encantaría, pero ellos me interceptan",
+                "David: No al revés",
+                "Tadeo: Bueno está bien",
+                "Tadeo: Es que me gustaría partirle la cara a algún profe",
+                "David: Eso es algo violento, ¿no crees?",
+                "Tadeo: Naaah... si se lo merece",
+                "David: Mejor voy yo sólo",
+                "Tadeo: Ay qué aburrido (¯ - ¯)"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Tadeo: ¡David! ¡David! ¿¡Estás bien!?",
+                "David: Sí... estoy bien",
+                "David: Sólo me tomó por sorpresa",
+                "Tadeo: ¡Llevamos horas buscándote!",
+                "David: ¿Tanto tiempo me fui?",
+                "David: Bueno no te preocupes, me encargué de él",
+                "Tadeo: ¿De quién?",
+                "David: Richtofen",
+                "David: El desgraciado me atacó por la espalda",
+                "Tadeo: WOW",
+                "Tadeo: Je eres un tonto con mucha suerte",
+                "Tadeo: Y ahora, ¿qué harás?",
+                "David: Terminar con esto"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Tadeo: Wow. En verdad lo lograste",
+                "Tadeo: Estoy impresionado",
+                "David: ¿Qué? ¿No creías que lo lograría?",
+                "Tadeo: No, sólo que nunca pensé que realmente funcionara...",
+                "Tadeo: Supongo que ahora podemos ser nosotros quienes definan nuestro éxito",
+                "David: Siempre fue así",
+                "David: Sólo teníamos que darnos cuenta",
+                "Tadeo: Je, creo que tienes razón",
+                "Tadeo: Gracias David, por todo",
+                "Tadeo: La escuela te lo debe",
+                "David: “El gusto... es mío”",
+                "Tadeo: (¯ _ ¯)"
+            ]
+        }
+    ]
+}

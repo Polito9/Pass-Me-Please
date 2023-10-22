@@ -1,0 +1,151 @@
+{
+	"pregunta" :[
+		{
+			"preg": "Representante del materialismo histórico",
+			"correcta": "Karl Marx",
+			"inc1": "Fernand Braudel",
+			"inc2": "Ortega y Gasset",
+			"inc3": "Auguste Comte"
+		},
+		{
+			"preg": "La revolución francesa dió inicio a la edad",
+			"correcta": "Moderna",
+			"inc1": "Antigua",
+			"inc2": "Media",
+			"inc3": "Contemporánea"
+		},
+		{
+			"preg": "Fecha de la firma del acta de independencia de las 13 colonias",
+			"correcta": "04/07/1776",
+			"inc1": "04/08/1777",
+			"inc2": "04/07/1767",
+			"inc3": "07/04/1876"
+		},
+		{
+			"preg": "¿Qué autor menciona la división de poderes?",
+			"correcta": "Montesquieu",
+			"inc1": "Rosseau",
+			"inc2": "John Locke",
+			"inc3": "Thomas Hobbes"
+		},
+		{
+			"preg": "Tras la muerte del Luis XVI, ¿Quién toma el poder de Francia?",
+			"correcta": "Robespierre",
+			"inc1": "Napoleón Bonaparte",
+			"inc2": "Luis XVIII",
+			"inc3": "Luis XIX"
+		},
+		{
+			"preg": "Monarca de Cerdeña, que inició el proceso de unificación de Italia",
+			"correcta": "Víctor Manuel",
+			"inc1": "Guisseppe",
+			"inc2": "Camilo di Cavour",
+			"inc3": "Clemente"
+		},
+		{
+			"preg": "Paises que integraron la Santa Alianza",
+			"correcta": "Austria, Prusia, Rusia",
+			"inc1": "Inglaterra, Prusia",
+			"inc2": "Francia, España, EUA",
+			"inc3": "Alemania, Japón, Italia"
+		},
+		{
+			"preg": "Paises que integraron la Santa Alianza",
+			"correcta": "Austria, Prusia, Rusia",
+			"inc1": "Inglaterra, Prusia",
+			"inc2": "Francia, España, EUA",
+			"inc3": "Alemania, Japón, Italia"
+		},
+		{
+			"preg": "Un represetante del positivismo",
+			"correcta": "Auguste Comte",
+			"inc1": "Karl Marx",
+			"inc2": "Platón",
+			"inc3": "Benedetto Croce"
+		},
+		{
+			"preg": "A la organización cronológica de la historia se le llama:",
+			"correcta": "Periodización",
+			"inc1": "Edades",
+			"inc2": "Siglos",
+			"inc3": "Eras"
+		},
+		{
+			"preg": "El feudalismo y las cruzadas son parte de este periodo",
+			"correcta": "Edad media",
+			"inc1": "Edad moderna",
+			"inc2": "Edad antigua",
+			"inc3": "Edad contemporánea"
+		},
+		{
+			"preg": "Primer país lationamericano en independizarse de España",
+			"correcta": "Argenita",
+			"inc1": "México",
+			"inc2": "Cuba",
+			"inc3": "Perú"
+		},
+		{
+			"preg": "Así se les llamó a los monarcas que se vieron infulenciados por la Enciclopedia",
+			"correcta": "Déspotas ilustrados",
+			"inc1": "Monarcas liberales",
+			"inc2": "Reformadores sociales",
+			"inc3": "Traidores"
+		},
+		{
+			"preg": "Así se les llamó a los monarcas que se vieron infulenciados por la Enciclopedia",
+			"correcta": "Déspotas ilustrados",
+			"inc1": "Monarcas liberales",
+			"inc2": "Reformadores sociales",
+			"inc3": "Traidores"
+		},
+		{
+			"preg": "Personaje importante de la unificación italiana",
+			"correcta": "Guiseppe Garibaldi",
+			"inc1": "Napoleón",
+			"inc2": "Victor Manuel IV",
+			"inc3": "Ninguno"
+		},
+		{
+			"preg": "Canciller de hierro que lidero guerras para la unificación germana",
+			"correcta": "Otto von Bismark",
+			"inc1": "Frankfurt",
+			"inc2": "Guillermo Segundo",
+			"inc3": "Otto Colleman"
+		},
+		{
+			"preg": "Tratado con el que se logra la unificación de Alemania",
+			"correcta": "Tratado de Frankfurt",
+			"inc1": "Tratado de Libre Comercio",
+			"inc2": "Tratado de Vienna",
+			"inc3": "Tratado de Guisseppe"
+		},
+		{
+			"preg": "Los Tratados de Bucareli fueron durante el gobierno de:",
+			"correcta": "Álvaro Obregón",
+			"inc1": "Venustiano Carranza",
+			"inc2": "Adolfo de la Huerta",
+			"inc3": "Abelardo Rodríguez"
+		},
+		{
+			"preg": "La petrolización del país y la apertura de el turismo a capitales privados fueron durante:",
+			"correcta": "José López Portillo",
+			"inc1": "Luis Echeverría",
+			"inc2": "Carlos Salinas",
+			"inc3": "Miguel de la Madrid"
+		},
+		{
+			"preg": "El partido liberal mexicano estuvo encabezado por:",
+			"correcta": "Ricardo Flores Magón",
+			"inc1": "Emiliano Zapata",
+			"inc2": "Gustavo Madero",
+			"inc3": "De la Huerta"
+		},
+		{
+			"preg": "Causa interna de la independencia de la Nueva España",
+			"correcta": "La Real Cédula de consolidación de vales",
+			"inc1": "Indpendencia 13 Colonias",
+			"inc2": "Ideas de la ilustración",
+			"inc3": "Invasión Francia a España"
+		}
+	]
+}

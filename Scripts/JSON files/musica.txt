@@ -1,0 +1,74 @@
+{
+	"pregunta" :[
+		{
+			"preg": "¿Qué género musical es originario de Jamaica?",
+			"correcta": "Reggae",
+			"inc1": "Samba",
+			"inc2": "Reggaeton",
+			"inc3": "Salsa"
+		},
+		{
+			"preg": "¿Quién fue el cantante conocido como El Rey del Rock and Roll?",
+			"correcta": "Elvis Presley",
+			"inc1": "Michael Jackson",
+			"inc2": "Freddie Mercury",
+			"inc3": "John Lennon"
+		},
+		{
+			"preg": "¿Cuál es el estilo musical típico de Nueva Orleans?",
+			"correcta": "Jazz",
+			"inc1": "Blues",
+			"inc2": "Rock",
+			"inc3": "Reggaeton"
+		},
+		{
+			"preg": "¿Qué género musical tiene sus raíces en la música afroamericana de los años 50 y 60?",
+			"correcta": "R&B",
+			"inc1": "Hip hop",
+			"inc2": "Soul",
+			"inc3": "Funk"
+		},
+		{
+			"preg": "¿En qué década se popularizó el rock psicodélico?",
+			"correcta": "1960s",
+			"inc1": "1950s",
+			"inc2": "1970s",
+			"inc3": "2000s"
+		},
+		{
+			"preg": "¿Qué es una nota musical?",
+			"correcta": "Duración de sonido",
+			"inc1": "Sonido complejo",
+			"inc2": "Altura de sonido",
+			"inc3": "Sonidos raros"
+		},
+		{
+			"preg": "¿Qué es una escala musical?",
+			"correcta": "Notas ordenadas",
+			"inc1": "Notas aleatorias",
+			"inc2": "Un solo sonido",
+			"inc3": "Un instrumento de cuerda"
+		},
+		{
+			"preg": "¿A que hace referencia el tempo?",
+			"correcta": "Ritmo musical",
+			"inc1": "Sonido musical",
+			"inc2": "Altura musical",
+			"inc3": "Volumen musical"
+		},
+		{
+			"preg": "¿Qué es una clave musical?",
+			"correcta": "Altura de notas",
+			"inc1": "Notas aleatorias",
+			"inc2": "Duración de notas",
+			"inc3": "Volumen de notas"
+		},
+		{
+			"preg": "Menciona un instrumento de cuerdas:",
+			"correcta": "Violín",
+			"inc1": "Batería",
+			"inc2": "Flauta",
+			"inc3": "Saxofón"
+		}
+	]
+}

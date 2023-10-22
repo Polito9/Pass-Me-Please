@@ -1,0 +1,74 @@
+{
+	"pregunta" :[
+	{
+		"preg": "Se le llama a aquello que se puede medir",
+		"correcta": "Magnitud",
+		"inc1": "Cosa",
+		"inc2": "Flexometro",
+		"inc3": "Metros"
+	},
+	{
+		"preg": "¿Qué rama de la física se encarga de estudiar el movimiento de los cuerpos?",
+		"correcta": "Mecánica",
+		"inc1": "Cinemática",
+		"inc2": "Dinámica",
+		"inc3": "Electricidad"
+	},
+	{
+		"preg": "¿Qué movimiento describen los cuerpos cuando se desplazan en línea recta con aceleración?",
+		"correcta": "MRUA",
+		"inc1": "MCU",
+		"inc2": "Acelerado",
+		"inc3": "MRU"
+	},
+	{
+		"preg": "¿Cuál es un modelo matemático correcto que se emplea en el MRUA?",
+		"correcta": "vf = vi + at",
+		"inc1": "vf = vi – x + a",
+		"inc2": "vf^2 = vi^2 – at",
+		"inc3": "x = vf^2 – vy^2"
+	},
+	{
+		"preg": "¿Cuál es el valor estimado de g en la Tierra?",
+		"correcta": "9.81 m/s^2",
+		"inc1": "-.981 m/s^2",
+		"inc2": "-10 m/s",
+		"inc3": "9.81 s^2"
+	},
+	{
+		"preg": "¿Cómo es conocida la Ley de la Inercia?",
+		"correcta": "1ra Ley de Newton",
+		"inc1": "2da Ley de Newton",
+		"inc2": "Gravedad",
+		"inc3": "Acción / Reacción"
+	},
+	{
+		"preg": "¿Cuál es el modelo matemático de la segunda ley de Newton?",
+		"correcta": "F = m a",
+		"inc1": "F = m - a",
+		"inc2": "F = -g +h",
+		"inc3": "m = gh +p"
+	},
+	{
+		"preg": "¿Qué matemático formuló 3 leyes para el movimiento de los planetas?",
+		"correcta": "Kepler",
+		"inc1": "Galileo Galilei",
+		"inc2": "Newton",
+		"inc3": "Einstein"
+	},
+	{
+		"preg": "¿Cuál es el modelo matemático de la energía cinética?",
+		"correcta": "(1/2) mv^2",
+		"inc1": "2mv^2",
+		"inc2": "(1/2)mv",
+		"inc3": "(mv^2) / (1/2)"
+	},
+	{
+		"preg": "¿Cuál es el modelo matemático de la energía potencial?",
+		"correcta": "mhg",
+		"inc1": "mg+h",
+		"inc2": "m+gh",
+		"inc3": "(1/2)*mgh"
+	}
+	]
+}

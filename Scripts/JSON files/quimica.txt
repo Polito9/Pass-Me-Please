@@ -1,0 +1,74 @@
+ {
+	"pregunta" :[
+		{
+			"preg": "¿Cuál de las siguientes sustancias NO es un compuesto?",
+			"correcta": "Al",
+			"inc1": "CO2",
+			"inc2": "ZnSO4",
+			"inc3": "Amoniaco"
+		},
+		{
+			"preg": "¿Qué nombre reciben los iones cargados (+)?",
+			"correcta": "Cationes",
+			"inc1": "Aniones",
+			"inc2": "Iones",
+			"inc3": "Ninguno"
+		},
+		{
+			"preg": "Otra manera de llamar al modelo de Thomsom",
+			"correcta": "Panque de pasas",
+			"inc1": "Órbitas elítpticas",
+			"inc2": "Donas",
+			"inc3": "Cuernitos"
+		},
+		{
+			"preg": "¿Qué determina el número cuántico m?",
+			"correcta": "Orientación del orbital",
+			"inc1": "Forma del orbital",
+			"inc2": "Tamaño del orbital",
+			"inc3": "Sentido del orbital"
+		},
+		{
+			"preg": "¿Qué determina el número cuántico n?",
+			"correcta": "Tamaño del orbital",
+			"inc1": "Forma del orbital",
+			"inc2": "Orientación del orbital",
+			"inc3": "Sentido del orbital"
+		},
+		{
+			"preg": "Nombre del orbital cuando l = 2",
+			"correcta": "d",
+			"inc1": "p",
+			"inc2": "s",
+			"inc3": "f"
+		},
+		{
+			"preg": "Heisenberg menciona que es imposible saber a la vez:",
+			"correcta": "posición y momento",
+			"inc1": "velocidad y posición",
+			"inc2": "Aceleración y fuerza",
+			"inc3": "Momento y velocidad"
+		},
+		{
+			"preg": "Familia de elementos menos radioactiva",
+			"correcta": "Gases nobles",
+			"inc1": "Halógenos",
+			"inc2": "Alcalinotérreos",
+			"inc3": "Alcalinos"
+		},
+		{
+			"preg": "La estructura angular del agua permite:",
+			"correcta": "Puentes de hidrógeno",
+			"inc1": "Buen disolvente",
+			"inc2": "Capacidad calorífica",
+			"inc3": "Menos densa"
+		},
+		{
+			"preg": "El enlace peptidico se forma con un grupo amino de aminoácido con un ____ de otro aminoácido",
+			"correcta": "-COOH",
+			"inc1": "-OH",
+			"inc2": "-CHO",
+			"inc3": "-NH4"
+		}
+	]
+}

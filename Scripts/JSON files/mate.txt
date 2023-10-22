@@ -1,0 +1,74 @@
+{
+	"pregunta" :[
+		{
+			"preg": "Al simplificar -(9+9-3)-4 se obtiene:",
+			"correcta": "-19",
+			"inc1": "12",
+			"inc2": "19",
+			"inc3": "-18"
+		},
+		{
+			"preg": "¿Cuál no es un número entero?",
+			"correcta": "-9.55",
+			"inc1": "-8",
+			"inc2": "8",
+			"inc3": "156899"
+		},
+		{
+			"preg": "i^2 = ?",
+			"correcta": "-1",
+			"inc1": "1",
+			"inc2": "i",
+			"inc3": "-i"
+		},
+		{
+			"preg": "El cuadrado de la suma de 2 números mas su producto",
+			"correcta": "(a+b)^2 + ab",
+			"inc1": "a^2 + b^2 + ab",
+			"inc2": "(ab)^2 + ab",
+			"inc3": "(ab - ab)^2+ ab"
+		},
+		{
+			"preg": "Suma 3x - 2y -4 con -55x + 5y - 2",
+			"correcta": "-52x + 3y - 6",
+			"inc1": "-58x + 3y - 6",
+			"inc2": "-52x + 7y - 4",
+			"inc3": "58x + 7y + 4"
+		},
+		{
+			"preg": "(a-b)^2",
+			"correcta": "a^2-2ab+b^2",
+			"inc1": "a^2+2ab+b^2",
+			"inc2": "a^2-ab+b^2",
+			"inc3": "a^2 + b^2"
+		},
+		{
+			"preg": "Para que valor de x, la función f(x) = 4/x+3 es discontinua",
+			"correcta": "x = -3",
+			"inc1": "x = 3",
+			"inc2": "x = 1",
+			"inc3": "x = 0"
+		},
+		{
+			"preg": "Cuál de las siguientes expresiones NO representa una función",
+			"correcta": "x^2 - y^2 = 5",
+			"inc1": "y = x^2 - 9",
+			"inc2": "y = 5x-9",
+			"inc3": "x - y + 9 = 0"
+		},
+		{
+			"preg": "Simplifica (x^2 - 9) / (x + 3)",
+			"correcta": "x - 3",
+			"inc1": "x + 3",
+			"inc2": "x - 9",
+			"inc3": "x^2 - 3"
+		},
+		{
+			"preg": "Dentro de los números reales, ¿Qué número no existe?",
+			"correcta": "sqrt(-1)",
+			"inc1": "-1",
+			"inc2": "1",
+			"inc3": "78.99"
+		}
+	]
+}

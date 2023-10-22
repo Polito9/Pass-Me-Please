@@ -1,0 +1,43 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "David: Siempre he pensado que música es una materia innecesaria",
+                "David: Pero al menos es agradable",
+                "David: Además, ¿de qué sirve si la tomamos?",
+                "David: No es como que podamos practicar en casa",
+                "Profesor Mercury: Sé que la curiosidad es buena...",
+                "Profesor Mercury: Pero no deberías estar merodeando por aquí como si tuvieras malas intenciones",
+                "David: ¡¡Profesor Mercury!!",
+                "David: ...",
+                "David: Lo siento, me sobresaltó un poco",
+                "Profesor Mercury: Suelo tener ese efecto en mucha gente",
+                "David: Claro......",
+                "David: Disculpe, pero tengo entendido que tenemos clase con usted",
+                "Profesor Mercury:  ¡Oh, por supuesto!",
+                "Profesor Mercury: Sin embargo, le pedí a tus demás compañeros que se tomaran el resto del día libre",
+                "David: ¿Por qué hizo eso?",
+                "Profesor Mercury: Pues digamos que quería un momento a solas…",
+                "Profesor Mercury: Con quien aniquiló a mi amiga Bunsen...",
+                "¿Cómo lo sabe?",
+                "Profesor Mercury: Shhhh...",
+                "Profesor Mercury: Yo hago las preguntas aquí"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Profesor Mercury: Parece que no era el único experto en este campo",
+                "David: Profesor, por favor dígame por qué hacen esto",
+                "Profesor Mercury: No puedo, menos con el tiempo que me queda",
+                "Profesor Mercury: Pero tú puedes conseguir las respuestas, lo sé",
+                "David: Profesor..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Ugh.....", 
+                "........"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+    {
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "Felicidades, lograste encontrar una mejora para pistas",
+                "Ahora al entrar a una batalla puedes tener una pista en un pregunta"
+            ]
+        }
+    ]
+}

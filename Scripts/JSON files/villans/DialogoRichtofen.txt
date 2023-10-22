@@ -1,0 +1,54 @@
+{
+    "dialogo":[
+        {
+            "dPersonaje":[
+                "David: Diferal me dijo que fuera a la fuente...",
+                "David: ...y la fuente de toda escuela es la dirección",
+                "David: O al menos eso entendí...",
+                "...",
+                "*GOLPE*",
+                "David: Aaaauuu...",
+                "...",
+                "David: ¿Dónde... dónde estoy?",
+                "Profesor Richtofen: Eso no importa tanto como el porqué estás aquí",
+                "David: ¿Quién es usted?",
+                "Profesor Richtofen: Soy William Richtofen, y tú me conoces como el profesor de Historia",
+                "David: Oh... eso tiene sentido...",
+                "David: Supongo que ahora hará lo que todos debieron hacer desde el principio",
+                "Profesor Richtofen: Ten cuidado con cómo me hablas, jovencito",
+                "Profesor Richtofen: He vivido 10 de tus vidas",
+                "Profesor Richtofen: Pero no, no he venido por mi cuenta...",
+                "Profesor Richtofen: Al parecer la profesora Voltaria se está cansando de ti...",
+                "Profesor Richtofen: ...y quiere que arreglemos este desastre",
+                "David: ¿La profesora Voltaria…?",
+                "David: ¿¡Ella qué demonios tiene que ver!?",
+                "Profesor Richtofen: Shhhh… no tienes que saberlo",
+                "Profesor Richtofen: De cualquier forma no saldrás de aquí"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Profesor Richtofen: Esto le da un sentido diferente a la frase *Eres Historia*",
+                "David: Es lo malo de todos ustedes",
+                "David: Nos subestiman y no creen que podamos conseguir lo que nos propongamos",
+                "Profesor Richtofen: No es que no confiemos en ustedes...",
+                "Profesor Richtofen: Simplemente sabemos lo difícil que puede ser...",
+                "Profesor Richtofen: Nosotros estuvimos en su lugar también",
+                "Profesor Richtofen: Tarde o temprano... el ciclo se repite y se repite",
+                "David: Dígame cómo pararlo, se lo pido",
+                "Profesor Richtofen: Ya sabes qué hacer...",
+                "Profesor Richtofen: La profesora Voltaria es la clave de todo",
+                "Profesor Richtofen: Ella lo comenzó todo, esta escuela... este plan...",
+                "Profesor Richtofen: Véncela, y tendrás lo que quieres",
+                "David: ¿Y qué es lo que quiero?",
+                "Profesor Richtofen: Justicia..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Ugh.....", 
+                "........"
+            ]
+        }
+    ]   
+}

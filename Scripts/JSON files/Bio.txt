@@ -1,0 +1,123 @@
+{
+	"pregunta" :[
+		{
+			"preg": "¿Quién describió por primera vez a las celulas?",
+			"correcta": "Leeuwenhoek",
+			"inc1": "Robert Hooke",
+			"inc2": "T. Shawn",
+			"inc3": "R. Virchow"
+		},
+		{
+			"preg": "¿Cuál es un postulado de la teoría celular?",
+			"correcta": "Las celulas vienen de otras celulas",
+			"inc1": "Las celulas desaparecen",
+			"inc2": "Las celulas no pueden morir",
+			"inc3": "La celula no es un ser vivo"
+		},
+		{
+			"preg": "¿Qué científico dijo que las células provienen de otras células?",
+			"correcta": "R. Virchhow",
+			"inc1": "Leeuwenhoek",
+			"inc2": "T. Shawn",
+			"inc3": "Robert Hooke"
+		},
+		{
+			"preg": "¿Cuál es un ejemplo de carbohidrato disacárido?",
+			"correcta": "Sacarosa",
+			"inc1": "Lípidos",
+			"inc2": "Almidones",
+			"inc3": "Glucosa"
+		},
+		{
+			"preg": "Organelo de gránulos densos de ARN, que sintetiza proteínas",
+			"correcta": "Ribosomas",
+			"inc1": "Lisosomas",
+			"inc2": "Mitocondria",
+			"inc3": "Núcleo"
+		},
+		{
+			"preg": "Característica de células procariotas",
+			"correcta": "Carecen de núcleo",
+			"inc1": "Son gigantes",
+			"inc2": "Hacen mitosis",
+			"inc3": "Estan en los animales"
+		},
+		{
+			"preg": "¿En qué consiste el anabolismo?",
+			"correcta": "De simples a complejas",
+			"inc1": "De complejas a simples",
+			"inc2": "Liberan energía",
+			"inc3": "Respiración por O2"
+		},
+		{
+			"preg": "Organelo celular encargado de la fotosíntesis",
+			"correcta": "Mitocondria",
+			"inc1": "Lisosoma",
+			"inc2": "Núcleo",
+			"inc3": "Cloroplasto"
+		},
+		{
+			"preg": "Fases del ciclo celular que integran la interfase de la mitosis",
+			"correcta": "G1, S, G2",
+			"inc1": "G1, M, porfase",
+			"inc2": "G2, meiosis, B2",
+			"inc3": "Mitosis, meiosis"
+		},
+		{
+			"preg": "La respiración aerobia se lleva a cabo en presencia de de:",
+			"correcta": "O2",
+			"inc1": "CO2",
+			"inc2": "H2O2",
+			"inc3": "CH4"
+		},
+		{
+			"preg": "Producto final de fermentación alcohólica y láctica, respecivamente",
+			"correcta": "Etanol y Ac.Lactico",
+			"inc1": "Lanol y Ácido",
+			"inc2": "Etanol y Ac.Acético",
+			"inc3": "Hexanol y Ac.Pirúvico"
+		},
+		{
+			"preg": "Productos al final de la fase luminosa de la fotosíntesis",
+			"correcta": "NADPH y ATP",
+			"inc1": "NADPH y ADP",
+			"inc2": "FAD y NADP",
+			"inc3": "ATP y Glucosa"
+		},
+		{
+			"preg": "La mitosis se realiza en células",
+			"correcta": "Somáticas",
+			"inc1": "Curiosas",
+			"inc2": "No sucede",
+			"inc3": "Procariotas"
+		},
+		{
+			"preg": "Ejemplo de reproducción asexual",
+			"correcta": "Gemación",
+			"inc1": "Tú",
+			"inc2": "En las ranas",
+			"inc3": "Anticonceptivos"
+		},
+		{
+			"preg": "¿Cómo se representan los cromosomas sexuales de la mujer?",
+			"correcta": "XX",
+			"inc1": "XY",
+			"inc2": "X-Y-X",
+			"inc3": "X-Z"
+		},
+		{
+			"preg": "Las levaduras se reproducen mediante reproducción asexual por:",
+			"correcta": "Gemación",
+			"inc1": "Conjugación",
+			"inc2": "Bipartición",
+			"inc3": "Esporulación"
+		},
+		{
+			"preg": "Organismo que pertenece al reino protista",
+			"correcta": "Alga",
+			"inc1": "Helecho",
+			"inc2": "Levadura",
+			"inc3": "Esponja"
+		}
+	]
+}

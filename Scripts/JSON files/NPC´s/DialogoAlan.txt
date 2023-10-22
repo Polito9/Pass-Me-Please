@@ -1,0 +1,107 @@
+{
+	"dialogo":[
+		{
+			"dPersonaje":[
+				"Alan: ...",
+                "Alan: ...",
+                "Alan: ...",
+                "Alan: Soy tímido Jijijija oniichan UwU (> ˘ω˘<)"
+            ]
+		},
+        {
+            "dPersonaje":[
+                "David: Hola Alan!",
+                "David: ¿Cómo estás?",
+                "Alan: Pasándome Older Roll por quinta vez",
+                "David: Ya deja ese juego, te va a secar el cerebro",
+                "Alan: ¡Es que no entiendes lo importante que es su historia!"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Alan: ¿Ya jugaste Dark Souls?",
+                "Alan: Es un juego muy extenso con una historia oculta muy profunda",
+                "David: Para ser sincero, aún estoy recuperándome de lo que pasó",
+                "Alan: Lo de Bunsen... no?",
+                "Alan: La verdad nunca me cayó bien",
+                "David: No lo sé...",
+                "David: Supongo que era buena profesora",
+                "Alan: Para mí, un buen profesor es aquel que no hace exámenes",
+                "David: ¿De qué te preocupas?",
+                "David: Siempre pasas sin estudiar..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Alan: El OST de mi vida sería muy raro",
+                "David: No me hables de música ahora...",
+                "Alan: Oye pero eso no fue tu culpa",
+                "Alan: Invariablemente quería venganza por su amiga",
+                "David: Eso no quita que lamente lo que ocurrió",
+                "Alan: Bueno no pienses en eso",
+                "Alan: Mejor piensa en lo increiblemente sexy que se ve la profa Midria",
+                "David: Je... bueno creo que tienes razón"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "David: Alan?",
+                "Alan: ...",
+                "David: Alan, sabes que no fue mi culpa",
+                "David: Ella me atacó",
+                "Alan: ...",
+                "Alan: Bueno pues ya paso",
+                "Alan: Que bueno que  estes bien amiko",
+                "David: Gracias por entenderme",
+                "Alan: Bueno suerte",
+                "Alan: Sigue matando profesores"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Alan: ¿Sabes?",
+                "Alan: Me parece impresionante que hayas podido con tantos profesores...",
+                "David: Ciertamente, pero sólo he tenido suerte",
+                "David: La verdad es que sigo lamentando lo que pasó con Midria",
+                "Alan: Yo también, pero aprendí que eras tú o ella",
+                "Alan: Además, me da gusto saber que se fue en paz...",
+                "David: Correcto",
+                "David: Y me dijo que te mencionara que siempre le pareciste atractivo",
+                "Alan: ¿¡Y me lo dices ahora!?",
+                "David: No quería decírtelo cuando la extrañabas tanto",
+                "Alan: Je... maldito",
+                "Alan: Bueno, supongo que sólo me queda su recuerdo..."
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Alan: ¡David! ¿¡Dónde estabas!?",
+                "Alan: Te estuvimos buscando por todas partes",
+                "David: Perdona. Estuve ocupado sobreviviendo a Richtofen",
+                "Alan: ¿¡Peleaste con el profesor de Historia!?",
+                "David: Sí... y no fue fácil, sinceramente",
+                "David: Pero falta un sólo reto",
+                "Alan: Sabes que nosotros te apoyamos",
+                "David: Lo sé... pero debo hacerlo sólo",
+                "David: Me quieren a mí, y no puedo dejar que los lastimen",
+                "Alan: Ah nunca me referí a apoyo físico...",
+                "Alan: Sólo emocional...",
+                "David: (-_-;)"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Alan: ¡DAVID! ¡Estás vivo!",
+                "David: Seh... estoy vivo",
+                "Alan: ¿Eso significa que lo lograste?",
+                "Alan: ¿Somos libres?",
+                "David: Jajaja nunca se trató de libertad",
+                "David: Sino de justicia",
+                "Alan: ¿O sea que voy a tener que seguir viniendo a la escuela?",
+                "David: Ammm... sí...",
+                "David: Después de las vacaciones",
+                "Alan: ¡Ay!, ¿¡eso qué tiene de divertido!?"
+            ]
+        }
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"dialogo" :[
+		{
+			"dPersonaje":[
+				"*El día acababa de empezar, al igual que el ciclo escolar*",
+				"*El lugar: "Instituto de Estudios Superiores Malvira*",
+				"*El cuándo: Martes, 12 de septiembre de 20XX*",
+				"David: Es una escuela grande…",
+				"*Él es David, nuestro protagonista.*",
+				"*Recién entró al Instituto, pero está nervioso*",
+				"*Pero no sabe que esta escuela esconde muchos más secretos de los que imagina*"
+			]
+		}
+	]
+}

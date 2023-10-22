@@ -1,0 +1,36 @@
+{
+	"dialogo" :[
+		{
+			"dPersonaje":[
+				"David: ¿Profesora Bunsen?",
+				"Profesora Bunsen: Alumno, ¿Qué se te ofrece?",
+				"David: Quería preguntarle si tenemos clase con usted",
+                "David:  Aún no me aprendo el horario",
+                "Profesora Bunsen: De hecho ahora es mi descanso…",
+                "David: ¡oh! Lo siento profesora, no tenía idea",
+                "David: Ya no la molesto",
+                "Profesora Bunsen: Sin embargo… creo que es muy oportuno encontrarnos",
+                "Profesora Bunsen: Igualmente tarde o temprano iba a buscarte",
+                "David: ¿A qué se refiere profesora?",
+                "Profesora Bunsen: La carne fresca no dura mucho en esta escuela...",
+                "Profesora Bunsen: Así que sería todo un placer poder probar tu inmaculada vitalidad",
+                "David: ¡¿Qué?!"
+            ]
+		},
+        {
+            "dPersonaje":[
+                "Profesora Bunsen: No puede ser…",
+                "Profesora Bunsen: ¡Esto no puede ser!",
+                "David: Profesora ¡¿Qué sucede?!",
+                "Profesora Bunsen: Tú... maldit-",
+                "David: ¿Qué demonios está pasando?"
+            ]
+        },
+        {
+            "dPersonaje":[
+                "Ugh.....", 
+                "........"
+            ]
+        }
+	]
+}
